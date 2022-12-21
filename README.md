@@ -1,0 +1,5 @@
+- 👋 Hi, I’m *Ayush Srivastava*
+- 👀 I’m interested in *Open source projects.*
+- 🌱 I’m currently learning `C`
+- 💞️ I’m looking to collaborate on *Some interesting projects*
+- 📫 How to reach me `soon`
