@@ -1,4 +1,4 @@
-![Header](./github-header-image-.png)
+![Header](./github-header-image.png)
 - 👋 Hi, I’m *Ayush Srivastava*
 - 👀 I’m interested in *Open source projects.*
 - 🌱 I’m currently focusing on `python`
