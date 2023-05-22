@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu26061&label=Profile%20views&color=0e75b6&style=flat" alt="ayu2606" /> </p>
-
 - 🔭 I’m currently **Developing my skills**
 
 - 🌱 I’m currently learning **Javascript**
@@ -33,9 +31,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayu2606&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayu2606&icon=0&color=0)](https://visitcount.itsvg.in)
