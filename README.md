@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Javascript**
 
-- 👨‍💻 All of my projects are available at [github.com/AyushSrivastava001](github.com/AyushSrivastava001)
+- 👨‍💻 All of my projects are available at [github.com/ayu2606](github.com/ayu2606)
 
 - 💬 Ask me about **python**
 
