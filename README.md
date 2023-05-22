@@ -11,6 +11,6 @@
 
 <p align="left">
     <a href="https://github.com/AyushSrivastava001/AyushSrivastava001/">
-      <img width="405" src="https://o.remove.bg/downloads/de2dc044-e7e2-4ae6-91dc-3ba577c5fb2a/image-removebg-preview.png"/>
+      <img width="410" src="https://o.remove.bg/downloads/de2dc044-e7e2-4ae6-91dc-3ba577c5fb2a/image-removebg-preview.png"/>
     </a>
  </p>
