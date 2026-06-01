@@ -1,31 +1,119 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
+<h3 align="center">AI Software & Systems Engineer • Tech Entrepreneur from India 🇮🇳</h3>
 
-- 🔭 I’m currently **Developing my skills**
-
-- 🌱 I’m currently discovering **New ways of developing**
-
-- 👯 I’m looking to collaborate on **[Ayuu Files](https://github.com/ayu2606/AyuFiles)**
-
-- 👨‍💻 All of my projects are available at [github.com/ayu2606](github.com/ayu2606)
-
-- 💬 Ask me about **python**
-
-- ⚡ Fun fact **I am in class 12**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayu2606&show_icons=true&locale=en" alt="ayu2606" /></p>!-->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayu2606&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayu2606&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayu2606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayu2606&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://ayushsrivastav.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ayushsrivastav.in-blue?style=flat-square&logo=google-chrome" /></a>
+  <a href="https://netigo.in" target="_blank"><img src="https://img.shields.io/badge/Startup-Netigo.in-orange?style=flat-square&logo=serverfault" /></a>
+  <a href="https://github.com/ayu2606" target="_blank"><img src="https://img.shields.io/badge/GitHub-ayu2606-181717?style=flat-square&logo=github" /></a>
+  <a href="https://linkedin.com/in/ayush-srivastava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ayush--srivastava-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="https://leetcode.com/AyushSrivastava001" target="_blank"><img src="https://img.shields.io/badge/LeetCode-AyushSrivastava001-FFA116?style=flat-square&logo=leetcode" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayu2606&icon=0&color=0)](https://visitcount.itsvg.in)
+
+🎓 Pursuing **B.Tech CSE (AI/ML)**  
+🚀 Founder & Principal Architect at **[Netigo.in](https://netigo.in)** — High-performance Linux VPS Hosting  
+🧠 Specialist in **hypervisor infrastructure**, **Docker networks**, and **WHMCS API automation**  
+⚡ Hackathon Winner — Built a **GEN AI agent from LLM** (2022)
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,cpp,js,php,mysql,docker,bash,nginx,aws,gcp,git,github,vscode" />
+</p>
+
+**Infrastructure:** Linux, Proxmox VE, KVM, Bare-Metal Virtualization, Docker, DNS  
+**Software & Tools:** Python, C++ (DSA), JavaScript, PHP, MySQL, AWS, GCP, WHMCS API, Pterodactyl
+
+---
+
+## 🚀 Key Projects (20 Total)
+
+### 🗂️ AyuFiles — Upload & Metadata Tracker
+- File upload platform with metadata tracking and management
+- **Tech:** Python, Storage APIs  
+🔗 [GitHub Repo](https://github.com/ayu2606/AyuFiles)
+
+### 🖼️ Ayu Image — AI Image Generator
+- OpenAI-powered image generation interface
+- **Tech:** Python, OpenAI API  
+🔗 [GitHub Repo](https://github.com/ayu2606)
+
+### 💬 AyuChat TCP — Terminal Chat
+- Real-time terminal-based chat over TCP sockets
+- **Tech:** Node.js, TCP Sockets  
+🔗 [GitHub Repo](https://github.com/ayu2606)
+
+### 🤖 AI Shell Agent — Voice Terminal
+- Voice-controlled terminal agent running shell commands via AI
+- **Tech:** Python, LLM, Speech APIs  
+🔗 [GitHub Repo](https://github.com/ayu2606)
+
+### ⚙️ Proxmox Setup — Bash VM Provisioner
+- Automated Proxmox KVM VM creation and configuration
+- **Tech:** Bash, Proxmox API
+
+### 🛡️ Cloudflare DNS — Dynamic IP Syncer
+- Auto-updates Cloudflare DNS records on IP change
+- **Tech:** Python, Cloudflare API
+
+### 🔒 Nginx Proxy SSL — Auto Renewal Setup
+- Reverse proxy with automatic Let's Encrypt SSL renewal
+- **Tech:** Nginx, Certbot, Bash
+
+### 📦 Local LLM API — Hugging Face Wrapper
+- REST API wrapper for running Hugging Face models locally
+- **Tech:** Python, FastAPI, Hugging Face
+---
+
+## 🏢 Professional Experience
+
+**🔧 Founder & Principal Architect — [Netigo.in](https://netigo.in)** *(Jan 2026 – Present)*  
+Scaled a web hosting platform with automated VPS provisioning (under 30 sec via WHMCS API), optimized KVM/Proxmox hypervisors, and maintained 99.9% uptime with socket-level DNS and reverse proxy configuration.
+
+**🛠️ Addons Developer — Pterodactyl Panel** *(Jan 2025 – Present)*  
+Published commercial-grade security and utility extensions: Anti-DDoS Shield, Smart Config & Sonar, Better Server Startup, and Limit Manager.
+
+**👨‍💻 Platform Administrator & Developer — Drama.gg** *(Sept 2024 – Present)*  
+Developed PHP/Mithril forum extensions, optimized MySQL schemas, and configured Nginx for concurrent traffic spikes.
+
+**🎮 Technical Support Analyst — Oddblox.us** *(Dec 2025 – Present)*  
+Diagnosed player client queries, server network drops, and compatibility errors; improved player latency configurations.
+
+---
+
+## 🧩 Coding Profiles
+
+- 🟡 LeetCode: [leetcode.com/AyushSrivastava001](https://leetcode.com/AyushSrivastava001)
+- 🐙 GitHub: [github.com/ayu2606](https://github.com/ayu2606)
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 Website: [ayushsrivastav.in](https://ayushsrivastav.in)
+- 📧 Email: [hi@ayushsrivastav.in](mailto:hi@ayushsrivastav.in)
+- 💼 LinkedIn: [linkedin.com/in/ayush-srivastava](https://linkedin.com/in/ayush-srivastava)
+- 📸 Instagram: [@ayush.srivastavahaha](https://instagram.com/ayush.srivastavahaha)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayu2606&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayu2606&theme=tokyonight&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu2606&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayu2606&theme=tokyo-night&hide_border=true" />
+</p>
+---
 
