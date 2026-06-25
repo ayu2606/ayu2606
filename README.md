@@ -95,7 +95,7 @@ Diagnosed player client queries, server network drops, and compatibility errors;
 
 - 🌐 Website: [ayushsrivastav.in](https://ayushsrivastav.in)
 - 📧 Email: [hi@ayushsrivastav.in](mailto:hi@ayushsrivastav.in)
-- 💼 LinkedIn: [linkedin.com/in/ayush-srivastava](https://linkedin.com/in/ayush-srivastava)
+- 💼 LinkedIn: [linkedin.com/in/ayush-srivastava](https://www.linkedin.com/in/ayush-srivastava-11b005314/)
 - 📸 Instagram: [@ayush.srivastavahaha](https://instagram.com/ayush.srivastavahaha)
 
 ---
