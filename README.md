@@ -5,7 +5,7 @@
   <a href="https://ayushsrivastav.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ayushsrivastav.in-blue?style=flat-square&logo=google-chrome" /></a>
   <a href="https://netigo.in" target="_blank"><img src="https://img.shields.io/badge/Startup-Netigo.in-orange?style=flat-square&logo=serverfault" /></a>
   <a href="https://github.com/ayu2606" target="_blank"><img src="https://img.shields.io/badge/GitHub-ayu2606-181717?style=flat-square&logo=github" /></a>
-  <a href="https://linkedin.com/in/ayush-srivastava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ayush--srivastava-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="[https://linkedin.com/in/ayush-srivastava](https://www.linkedin.com/in/ayush-srivastava-11b005314/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ayush--srivastava-0A66C2?style=flat-square&logo=linkedin" /></a>
   <a href="https://leetcode.com/AyushSrivastava001" target="_blank"><img src="https://img.shields.io/badge/LeetCode-AyushSrivastava001-FFA116?style=flat-square&logo=leetcode" /></a>
 </p>
 
